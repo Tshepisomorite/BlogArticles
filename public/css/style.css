@@ -40,6 +40,13 @@ p {
    
  }
 
+.foot {
+  width: 200px;
+  
+  margin-top: 50px;
+  text-align: center;
+}
+
  .rating-box input{
 width: 20%;
  }
