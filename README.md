@@ -3,16 +3,16 @@
 
 ### This app uses Node.Js|Express.js|MongoDB|Handlebars template|Google Authentication
 
-# How to run
+## How to run
 
-### Add your Google oAuth and MongoDB credentials to the config.env file
+##### Add your Google oAuth and MongoDB credentials to the config.env file
 
 ### <>Install NPM dependencies
-### npm install
+###### npm install
 
 ### <>Start NPM
-### npm start
+###### npm start
 
 ### <>run in development mode
-### npm run dev
+###### npm run dev
 
