@@ -1,0 +1,46 @@
+p {
+    margin: 10px 0 !important;
+    margin-right:50;
+    font-family: "Times New Roman", Times, serif;
+    
+  }
+  
+  
+  .login-container {
+    width: 600px;
+    margin-top: 50px;
+    text-align: center;
+   
+  }
+  
+  .fa-small {
+    font-size: 16px !important;
+  }
+  
+  .btn_float{
+   float: left;
+   
+    margin-right: 10px;
+  }
+  
+  .row desc .p{
+    margin-left: 50px;
+  }
+  
+  .img-small {
+    width: 180px;
+  }
+
+ .rating-box .ratings {
+   font-size: 40px;
+   color: #FF9800;
+   float: left;
+   cursor: pointer;
+  
+   
+ }
+
+ .rating-box input{
+width: 20%;
+ }
+
