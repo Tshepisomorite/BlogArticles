@@ -1,7 +1,7 @@
 # BlogArticles
-#### Be the author of your own blog
+###### Be the author of your own blog
 
-### This app uses Node.Js|Express.js|MongoDB|Handlebars template|Google Authentication
+##### This app uses Node.Js|Express.js|MongoDB|Handlebars template|Google Authentication
 
 ## How to run
 
