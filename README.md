@@ -8,11 +8,11 @@
 ##### Add your Google oAuth and MongoDB credentials to the config.env file
 
 ##### <>Install NPM dependencies
-####### npm install
+##### npm install
 
 ##### <>Start NPM
-####### npm start
+##### npm start
 
 ##### <>run in development mode
-####### npm run dev
+##### npm run dev
 
